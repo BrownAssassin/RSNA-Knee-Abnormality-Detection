@@ -1,0 +1,14 @@
+# Kaggle Linux image reference for research notebooks; use the image's CUDA
+# PyTorch build rather than installing the Windows CPU build from requirements.txt.
+numpy>=2.0,<3
+pandas>=2.2,<3
+scipy>=1.14,<2
+scikit-learn>=1.5,<2
+pydicom==3.0.1
+pylibjpeg==2.1.0
+pylibjpeg-libjpeg>=2.1,<3
+pylibjpeg-openjpeg>=2.1,<3
+python-gdcm
+timm==1.0.29
+torch==2.11.0
+torchvision==0.26.0

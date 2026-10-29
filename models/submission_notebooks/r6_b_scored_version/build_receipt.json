@@ -1,0 +1,14 @@
+{
+  "source_url": "https://www.kaggle.com/code/arvbali/rsna-r6-b-portable-final-bundle",
+  "source_sha256": "74a24749eb18b7e35ad7d56d0d3c86e7f1fc3d6c685ffd21cfc31788450d797d",
+  "notebook_sha256": "34ffcf509496e5357c36fd2c3e2c462cdf7a9bdaaa5a3a9e70d834aa2d01b545",
+  "mode": "scoring",
+  "dataset_sources": [
+    "goodpjw2008/rsna-knee-2-5d-convnext-reader/1",
+    "rostigor/rsna-knee-r6-fe055406/1",
+    "nartaa/rsna-knee-publication-swa-weights-20261007/1",
+    "heliosli/rsna-orthofoundation-fold0-epoch7-20261004/1",
+    "arvbali/rsna-final-r6-assets-20261020/2"
+  ],
+  "code_file": "rsna-final-r6-b-20261021.ipynb"
+}

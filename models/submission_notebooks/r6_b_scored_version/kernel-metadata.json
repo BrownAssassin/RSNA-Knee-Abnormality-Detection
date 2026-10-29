@@ -1,0 +1,24 @@
+{
+  "id": "mrinanksivakumar/rsna-final-r6-b-20261021",
+  "title": "RSNA Final R6 B 20261021",
+  "code_file": "rsna-final-r6-b-20261021.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "dataset_sources": [
+    "goodpjw2008/rsna-knee-2-5d-convnext-reader/1",
+    "rostigor/rsna-knee-r6-fe055406/1",
+    "nartaa/rsna-knee-publication-swa-weights-20261007/1",
+    "heliosli/rsna-orthofoundation-fold0-epoch7-20261004/1",
+    "arvbali/rsna-final-r6-assets-20261020/2"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "rsna-knee-abnormality-detection"
+  ],
+  "model_sources": [],
+  "machine_shape": "NvidiaTeslaT4"
+}
